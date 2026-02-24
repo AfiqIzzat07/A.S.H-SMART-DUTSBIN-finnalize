@@ -1,4 +1,3 @@
-// Replace with your Firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyBD990zggrFpi5Z2DwAOLShTjJUDN8ydBo",
   authDomain: "smart-dustbin-150307.firebaseapp.com",
